@@ -8,10 +8,10 @@ class Program
     static void Main()
 
     {
-        Console.WriteLine("Введите значение a:");
+        Console.WriteLine("Введите a:");
         double a = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Введите значение b:");
+        Console.WriteLine("Введите b:");
         double b = Convert.ToDouble(Console.ReadLine());
         double result;
 
