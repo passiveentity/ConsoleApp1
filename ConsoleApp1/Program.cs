@@ -17,7 +17,7 @@ class Program
 
         if (a > b)
         {
-            result = a / b - 1;
+            result = a / b + 1;
         }
 
         else if (a < b)
