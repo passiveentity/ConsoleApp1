@@ -30,7 +30,7 @@ class Program
             result = -25;
         }
 
-        Console.WriteLine($"Результат X: {result}");
+        Console.WriteLine($"Результат уравнения  {result}");
 
     }
 }
